@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Daniel Lenhardt 👋
+-  🧠 Computer Science student specializing in AI, Neural Networks, and Computer Vision. Master's thesis on emotion classification bridging tech and psychology.
+-  📖 Strong foundation in philosophy and sociology, enriching my tech perspective.
+-  🤝 Passionate about connecting with people, advocating for causes, and valuing feedback.
+-  🌱 Guiding principle: "Correct a wise person and they will love you; correct a fool and they will hate you."
+
+## 🛠 Tech Stack
+- 👨‍💻  Python (+ Pytorch) | Dart (+ Flutter) | Java | HTML | CSS | JavaScript/Typescript (+ Angular/Vue) | PHP (+ Symfony)
+- 🔧  Android Studio | IntelliJ (Pycharm/Webstorm/PhpStorm) | VSCode | Git | Figma
+
 
 <!--
 **ckwdani/ckwdani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
